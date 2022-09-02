@@ -155,7 +155,7 @@ Not all extended syntax features work in all markdown applications.
 ### Task List
 
 - [x] Task 1
-- [ ] Task 2
+- [x] Task 2
 - [ ] Task 3
 
 ### Emoji
@@ -209,7 +209,6 @@ Daremos 4 espacios antes de lo escrito.
 ### Con html podemos modificar el tamano d la imagen
 
 <img src= "https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width=200px>
-
 
 ### VIDEOS
 
